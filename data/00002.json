@@ -1,0 +1,45 @@
+{
+  "name": "Okoř",
+  "author": "táborové písně",
+  "chords": [
+    "A",
+    "D",
+    "E",
+    "G"
+  ],
+  "text": [
+    [
+      "1. {D}Na Okoř je cesta, jako žádná ze sta,",
+      "{A}roubená je stroma{D}ma.",
+      "{D}Když jdu po ní v létě, samoten na světě,",
+      "{A}sotva pletu noha{D}ma.",
+      "{G}Na konci té cesty {D}trnité,",
+      "{E}stojí krčma jako hrad, jako {A}hrad.",
+      "{D}Tam zapadli trampi, hladoví a sešlí ,",
+      "{A}začli sobě noto{D}vat."
+    ],
+    [
+      "R: {D}Na hradě Okoři {A}světla už nehoří,",
+      "{D}bílá paní {A}šla už dávno {D}spát.",
+      "Ta měla ve zvyku, {A}podle svého budíku,",
+      "{D}o půlnoci {A}chodit straší{D}vat.",
+      "{G}Od těch dob, co jsou tam {D}trampové,",
+      "{E}nesmí z hradu {A}pryč, z hradu pryč.",
+      "{D}A tak dole v podhradí {A}se šerifem dovádí,",
+      "{D}on jí sebral {A}od komnaty {D}klíč."
+    ],
+    [
+      "2. Jednoho dne z rána roznesla se zpráva,",
+      "že byl Okoř vykraden.",
+      "Nikdo neví dodnes, kdo to tenkrát odnes,",
+      "nikdo nebyl dopaden.",
+      "Šerif hrál celou noc mariáš",
+      "s bílou paní v kostinci, v kostinci.",
+      "Místo aby hlídal, zuřivě ji líbal,",
+      "dostal z toho zimnici."
+    ],
+    [
+      "R: "
+    ]
+  ]
+}
