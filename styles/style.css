@@ -154,4 +154,8 @@ header > h1 {
   .sidebar {
     display: none
   }
+
+  .song-text {
+    column-fill: auto;
+  }
 }
