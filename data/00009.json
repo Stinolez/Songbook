@@ -1,0 +1,44 @@
+{
+  "name": "Řekni, kde ty kytky jsou",
+  "author": "folkové písně",
+  "timing": "4/4",
+  "chords": [
+    "Am",
+    "C",
+    "D",
+    "Em",
+    "G"
+  ],
+  "text": [
+    [
+      "1. {G}Řekni kde ty {Em}kytky jsou, {Am}co se tady {D}mohlo stát",
+      "{G}řekni kde ty {Em}kytky jsou, {Am}kde mohou {D}být.",
+      "{G}Dívky je tu {Em}během dne {Am}otrhaly {D}do jedné",
+      "{C}kdo to kdy {G}pochopí, {C}kdo to kdy {D}pocho{G}pí."
+    ],
+    [
+      "2. Řekni kde ty dívky jsou, co se asi mohlo stát",
+      "řekni kde ty dívky jsou, kde mohou být.",
+      "Muži si je vyhlédli, s sebou domů odvedli",
+      "kdo to kdy pochopí, kdo to kdy pochopí."
+    ],
+    [
+      "3. Řekni kde ti muži jsou, co se k čertu mohlo stát",
+      "řekni kde ti muži jsou, kde mohou být.",
+      "Muži v plné polní jdou, do války zas je zvou",
+      "kdo to kdy pochopí, kdo to kdy pochopí."
+    ],
+    [
+      "4. A kde jsou ti vojáci, co se tady mohlo stát",
+      "a kde jsou ti vojáci, kde mohou být.",
+      "Řada hrobů v zákrytu, meluzína kvílí tu",
+      "kdo to kdy pochopí, kdo to kdy pochopí."
+    ],
+    [
+      "5. Řekni kde ty hroby jsou, co se s nimi mohlo stát",
+      "řekni kde ty hroby jsou, kde mohou být.",
+      "Co tu kytek rozkvétá od jara do léta",
+      "kdo to kdy pochopí, kdo to kdy pochopí."
+    ]
+  ]
+}

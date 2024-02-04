@@ -169,7 +169,7 @@ var app = (function () {
     songDetail.innerHTML = '';
 
     // Add song details
-    let title = createElement('h2', ['', '{}', data.name + ' <span class="author">(' + data.author + ')</span>']);
+    let title = createElement('h2', ['', '{}', data.name + ' <span class="author">(' + data.author + ', takt: ' + data.timing + ')</span>']);
     songDetail.appendChild(title);
 
     // Add chords

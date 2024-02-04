@@ -1,6 +1,7 @@
 {
   "name": "Když jsem já sloužil",
   "author": "lidové písně",
+  "timing": "4/4",
   "chords": [
     "A",
     "E"
@@ -10,14 +11,14 @@
       "1. {A}Když jsem já sloužil to první lé{E}to,",
       "vysloužil jsem si kuřátko za {A}to.",
       "A to kuře krákoře běhá po dvo{E}ře,",
-      "má panenka pláče {A}doma {E}v ko{A}moře."
+      "má panenka pláče doma v ko{A}moře."
     ],
     [
       "2. {A}Když jsem já sloužil to druhé lé{E}to,",
       "vysloužil jsem si kachničku za {A}to.",
       "A ta kačka bláto tlačká",
       "a to kuře krákoře běhá po dvo{E}ře,",
-      "má panenka pláče {A}doma {E}v ko{A}moře."
+      "má panenka pláče doma v ko{A}moře."
     ],
     [
       "3. ... husičku ...",
@@ -38,6 +39,12 @@
     [
       "7. ... botičky ...",
       "A ty boty do roboty, ..."
+    ],
+    [
+      "8. Když jsem já sloužil to osmé léto, vysloužil jsem si panenku za to.",
+      "A ty boty do roboty a ta kráva mléko dává a to tele hubou mele",
+      "a ten vepř jako pepř a ta husa chodí bosa a ta kačka blátotlačka",
+      "a to kuře krákoře, běhá po dvoře, má panenka tančí se mnou v komoře."
     ]
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "name": "Montgomery",
+  "author": "táborové písně",
+  "timing": "4/4",
+  "chords": [
+    "A",
+    "D",
+    "Em",
+    "G"
+  ],
+  "text": [
+    [
+      "1. {D}Déšť ti holka smáčel {G}vlasy. {Em}{A}Z tvých očí zbyl prázdný {D}kruh.{A}",
+      "{D}Kde je zbytek tvojí {G}krásy. {Em}{A}To ví dneska jenom {D}Bůh.{A}"
+    ],
+    [
+      "R: {D}Z celé jižní eska{G}drony {A}nezbyl ani jeden {D}muž.{A}",
+      "{D}V Montgomery bijou {G}zvony. {Em}{A}Déšť Ti smejvá ze rtů {D}růž.{A}"
+    ],
+    [
+      "2. Tam na kopci v prachu cesty leží i Tvůj generál.",
+      "V ruce šátek od nevěsty, ale ruka leží dál."
+    ],
+    [
+      "R:"
+    ],
+    [
+      "3. Tvář má zšedivělou strachem, zbylo v ní pár těžkých chvil.",
+      "Proužek krve stéká prachem. Déšť mu slepil vlasy jak jíl."
+    ],
+    [
+      "R:"
+    ],
+    [
+      "4. Déšť ti šeptá jeho jméno, šeptá ho i Listoví.",
+      "Lásku měl rád víc než život, to ti nikdy nepoví."
+    ]
+  ]
+}

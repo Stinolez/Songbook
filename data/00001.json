@@ -1,6 +1,7 @@
 {
   "name": "Když jde malý bobr spát",
   "author": "Petr Skoumal",
+  "timing": "4/4",
   "chords": [
     "A",
     "D",
@@ -8,10 +9,10 @@
   ],
   "text": [
     [
-      "1. {A}Když jde malý {E}bobr spát, {D}bobr spát, {E}bobr spát,",
+      "1. {A}Když jde malý {E}bobr spát, {D}bobr spát, {A}bobr spát,",
       "{A}tak si chvilku {E}hraje rád, {D}hraje rád, {A}hraje rád,",
-      "{A}postaví se {E}na zadní, {D}na zadní, {E}na zadní,",
-      "{A}jenom, bobře, {E}nespadni, {D}jenom {E}nespa{A}dni."
+      "{A}postaví se {E}na zadní, {D}na zadní, {A}na zadní,",
+      "{A}jenom, bobře, {E}nespadni, {D}jenom nespad{A}ni."
     ],
     [
       "R1: {E}Prosím vás, buďte tak dobří, dělejte to jako ti bobři,",

@@ -1,6 +1,7 @@
 {
   "name": "Okoř",
   "author": "táborové písně",
+  "timing": "4/4",
   "chords": [
     "A",
     "D",
@@ -10,12 +11,12 @@
   "text": [
     [
       "1. {D}Na Okoř je cesta, jako žádná ze sta,",
-      "{A}roubená je stroma{D}ma.",
+      "{A}vroubená je stroma{D}ma (stromama).",
       "{D}Když jdu po ní v létě, samoten na světě,",
-      "{A}sotva pletu noha{D}ma.",
+      "{A}sotva pletu noha{D}ma (nohama).",
       "{G}Na konci té cesty {D}trnité,",
-      "{E}stojí krčma jako hrad, jako {A}hrad.",
-      "{D}Tam zapadli trampi, hladoví a sešlí ,",
+      "{E}stojí krčma jako {A}hrad (jako hrad).",
+      "{D}Tam zapadli trampi, hladoví a sešlí,",
       "{A}začli sobě noto{D}vat."
     ],
     [
@@ -24,7 +25,7 @@
       "Ta měla ve zvyku, {A}podle svého budíku,",
       "{D}o půlnoci {A}chodit straší{D}vat.",
       "{G}Od těch dob, co jsou tam {D}trampové,",
-      "{E}nesmí z hradu {A}pryč, z hradu pryč.",
+      "{E}nesmí z hradu {A}pryč (z hradu pryč).",
       "{D}A tak dole v podhradí {A}se šerifem dovádí,",
       "{D}on jí sebral {A}od komnaty {D}klíč."
     ],

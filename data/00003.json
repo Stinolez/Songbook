@@ -1,6 +1,7 @@
 {
   "name": "Bláznova ukolébavka",
   "author": "táborové písně",
+  "timing": "3/4",
   "chords": [
     "A",
     "D",
@@ -9,14 +10,14 @@
   ],
   "text": [
     [
-      "1. {D}Máš, má ovečko, {A}dávno spát, {G}už píseň ptáků {D}končí,",
-      "kvůli nám přestal{A} i vítr vát, {G}jen můra {D}zírá zvenčí,",
-      "{A}já znám její zášť, {G}tak vyhledej skrýš,",
-      "{A}zas má bílej plášť a {G}v okně {A}je mříž."
+      "1. {D}Máš, má ovečko, {A}dávno spát, i {G}píseň ptáků {D}končí,",
+      "kvůli nám přestal {A}vítr vát, jen {G}můra zírá {D}zvenčí,",
+      "já {A}znám její zášť, tak {G}vyhledej skrýš,",
+      "zas {A}má bílej plášť a v {G}okně je {A}mříž."
     ],
     [
       "R: {D}Máš, má ovečko, {A}dávno spát,",
-      "{G}a můžeš hřát, ty mě {E}můžeš hřát,",
+      "a {G}můžeš hřát, ty mě {E}můžeš hřát,",
       "vždyť {D}přijdou se {G}ptát, zítra zas {D}přijdou se {G}ptát,",
       "jestli ty v {D}mých předsta{G}vách už {D}mizíš."
     ],
