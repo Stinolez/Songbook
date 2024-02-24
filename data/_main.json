@@ -44,6 +44,31 @@
       "name": "Řekni, kde ty kytky jsou",
       "author": "folkové písně",
       "uid": "00009"
+    },
+    {
+      "name": "Stánky",
+      "author": "Nedvědi",
+      "uid": "00010"
+    },
+    {
+      "name": "Sedmikráska",
+      "author": "Brontosauři",
+      "uid": "00011"
+    },
+    {
+      "name": "Kometa",
+      "author": "Jaromír Nohavica",
+      "uid": "00012"
+    },
+    {
+      "name": "Slavíci z Madridu",
+      "author": "Waldemar Matuška",
+      "uid": "00013"
+    },
+    {
+      "name": "Podvod",
+      "author": "Nedvědi",
+      "uid": "00014"
     }
   ]
 }

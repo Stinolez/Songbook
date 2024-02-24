@@ -1,0 +1,38 @@
+{
+  "name": "Stánky",
+  "author": "Nedvědi",
+  "timing": "4/4",
+  "chords": [
+    "A",
+    "A7",
+    "D",
+    "Dm",
+    "E"
+  ],
+  "text": [
+    [
+      "1. {A}U stánků {D}na levnou krásu",
+      "{A}postávaj a {Dm}smějou se času,",
+      "{A}s cigaretou a s {E}holkou, co nemá kam {A}jít. {E} ",
+      "{A}Skleniček pár a {D}pár tahů z trávy,",
+      "{A}uteče den jak {Dm}večerní zprávy,",
+      "{A}neuměj žít a {E}bouřej se a neposlou {A}chaj. {A7} "
+    ],
+    [
+      "R: Jen {D}zahlídli svět, maj {E}na duši vrásky,",
+      "tak {A}málo je, tak {Dm}málo je lásky,",
+      "{A}ztracená víra {E}hrozny z vinic neposbí{A}rá. ({E}když následuje sloka /{A7}když opakujeme refr.)"
+    ],
+    [
+      "2. {A}U stánků {D}na levnou krásu",
+      "{A}postávaj, a {Dm}ze slov a hlasů",
+      "{A}poznávám, jak {E}málo jsme jim stačili {A}dát. {A7} "
+    ],
+    [
+      "R: Jen zahlídli svět, maj na duši vrásky …"
+    ],
+    [
+      "R: Jen zahlídli svět, maj na duši vrásky …"
+    ]
+  ]
+}
