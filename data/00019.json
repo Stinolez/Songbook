@@ -1,0 +1,25 @@
+{
+  "name": "Neopatrný křeček",
+  "author": "Ivan Mládek",
+  "timing": "4/4",
+  "chords": [
+    "A7",
+    "B7",
+    "D",
+    "E7"
+  ],
+  "text": [
+    [
+      "1. {D}Železniční vlečka {E7}povalila křečka,",
+      "{A7}skutálel se z náspu do po{D}lí.",
+      "{B7}Zdalipak ses, křečku, {E7}nezranil o vlečku,",
+      "{E7}zdalipak tě něco nebo{A7}lí?"
+    ],
+    [
+      "R: {D}Dopadlo to {E7}výborně {A7}jsem jen trochu v {D}šoku,",
+      "{B7}spravil by to {E7}náprstek {A7}nějakého {D}moku.",
+      "{D}Na kolejích {E7}nebudu už {A7}nikdy dělat {D}bobky,",
+      "{B7}leda bych měl {E7}na zádech {A7}odrazové {D}stopky."
+    ]
+  ]
+}

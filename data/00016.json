@@ -1,0 +1,42 @@
+{
+  "name": "Hallelujah",
+  "author": "Leonard Cohen",
+  "timing": "3/4",
+  "chords": [
+    "B7",
+    "C",
+    "D",
+    "Em",
+    "G"
+  ],
+  "text": [
+    [
+      "1. I {G}heard there was a {Em}secret chord",
+      "That {G}David played and it {Em}pleased the Lord",
+      "But {C}you don’t really care for music, {G}do you? {D}",
+      "Well {G}goes like this… the {C}fourth, the {D}fifth",
+      "The {Em}minor fall and the {C}major lift,",
+      "The {D}baffled King com {B7}posing Halle{Em}lujah"
+    ],
+    [
+      "R: Halle{C}lujah, Halle{Em}lujah",
+      "Halle{C}lujah, Halle{G}luuu{D}uu{G}jah {Em} {G} {Em}"
+    ],
+    [
+      "2.Your faith was strong but you needed proof",
+      "You saw her bathing on the roof",
+      "Her beauty at the moonlight overthrew you",
+      "She tied you to her kitchen chair",
+      "She broke your throne and she cut your hair",
+      "And from your lips she drew the Hallelujah"
+    ],
+    [
+      "3. Maybe there’s a God above",
+      "And all I´ve ever learned from love",
+      "Was how to shoot somebody who outdrew you",
+      "And it’s not a cry that you hear at night",
+      "it’s not someone who’s seen the light",
+      "it’s a cold and it’s a broken Hallelujah"
+    ]
+  ]
+}
